@@ -400,6 +400,7 @@ a:focus {
 
 .service_section {
   position: relative;
+  
 }
 
 .service_section .box {
@@ -525,6 +526,10 @@ a:focus {
   background-color: #007fa4;
 }
 
+.why_section{
+  background-color: #00204a;
+  color:#ffffff
+}
 .why_section .box {
   margin-top: 45px;
   display: -webkit-box;
@@ -547,7 +552,7 @@ a:focus {
   min-width: 120px;
   min-height: 120px;
   border-radius: 100%;
-  border: 5px solid #00204a;
+  border: 5px solid #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -562,7 +567,7 @@ a:focus {
 .why_section .box .img-box img {
   width: 55px;
   height: auto;
-  fill: #00204a;
+  fill: #ffffff;
 }
 
 .why_section .box h5 {
@@ -602,8 +607,8 @@ a:focus {
 /*team section */
 .team_section {
   text-align: center;
-  background-color: #00204a;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 .team_section .heading_container {
