@@ -15,4 +15,5 @@
 3. 다양한 자료들을 이용한 AI 데이터 학습  
 
 ## 시연영상 
-○ https://www.youtube.com/d1wadwad/awdasdefd
+○ [https://clipchamp.com/watch/dWPtb0nplkn](https://youtu.be/b_oUTFVndZo)https://youtu.be/b_oUTFVndZo
+
